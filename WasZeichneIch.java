@@ -22,8 +22,10 @@ public class WasZeichneIch extends PApplet
     // Überlege dir, was die Anweisungen in der Methode "wasZeichneIch" auslösen könnten
     // Verändere die Werte, die den Methoden übergeben werden. Was passiert?
     public void wasZeichneIch() {
-        ellipse(50, 50, 50, 50);
-        ellipse(100, 100, 100, 100);
+      rect(50, 50, 400, 400);
+      ellipse(250, 250, 350, 350);
+      ellipse(250, 250, 300, 300);
+      ellipse(250, 250, 250, 250);
     }
 
     /**
