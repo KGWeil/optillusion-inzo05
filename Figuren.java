@@ -25,9 +25,7 @@ public class Figuren extends PApplet
         // Werte du den Methoden rect(x,y,b,h) und ellipse(x,y,b,h) übergeben musst, 
         // dass Bild C gezeichnet wird
 
-        // ***** hier kommen deine Anweisungen hin ************
-
-        // ***** Ende der eigenen Anweisungen **********
+        // ***** ellipse(250, 250, 350, 350); **********
     }
 
     //***** Zusatzaufgabe bzw. Hausaufgabe *************
