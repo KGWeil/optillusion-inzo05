@@ -21,9 +21,8 @@ public class FigurC_mitSchleife extends PApplet
     }        
 
     public void zeichneBildC() {
-        // ***** hier kommen deine Anweisungen hin ************
-        rect(70, 70, 60, 60);
-        for(int i=0; i<3; i++) {
+        // ***** hier kommen deine Anweisungen hin ***********
+        for(int i=0; i<10; i++) {
         ellipse(100,100,50-i*10,50-i*10);
     }
         // ***** Ende der eigenen Anweisungen **********
